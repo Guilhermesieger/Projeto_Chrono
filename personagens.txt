@@ -2,3 +2,4 @@ Chrono
 Lucca
 Marle
 Robo
+Magus
